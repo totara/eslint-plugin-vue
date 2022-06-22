@@ -46,7 +46,7 @@
     "eslint": "^5.0.0 || ^6.0.0"
   },
   "dependencies": {
-    "vue-eslint-parser": "^5.0.0"
+    "vue-eslint-parser": "https://github.com/totara/vue-eslint-parser/releases/download/v5.0.0-totara.1/vue-eslint-parser-5.0.0-totara.1.tgz"
   },
   "devDependencies": {
     "@types/node": "^4.2.16",
